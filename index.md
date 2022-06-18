@@ -1,4 +1,3 @@
-# *Site Antonio Victor de Arruda Silveira*
 - Estudante de Ciências da Computação, primeiro período, turma 1B
 
 - Localizado em Curitiba, Paraná
