@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# *Site Antonio Victor de Arruda Silveira*
+- Estudante de Ciências da Computação, primeiro período, turma 1B
 
-You can use the [editor on GitHub](https://github.com/KDoizz/Antonio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Localizado em Curitiba, Paraná
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### *Sobre mim*
 
-### Markdown
+- Tenho conhecimento básico em linguagens como Html, CSS, JavaScript, PHP e principalmente Python. Venho aprendendo também Banco de Dados com MYSQL, possuo alguns projetos feitos para matérias da faculdade, serão citados mais abaixo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### *Projetos*
 
-```markdown
-Syntax highlighted code block
+Experiência Criativa: Navegando na Computação:
+- Jogo Jump Knight
+- Aplicativo Multimídia: App sobre Copa do Mundo
+- Aplicativo Web: Site sobre anime
+- Site Portfólio
 
-# Header 1
-## Header 2
-### Header 3
+Resolução de Problemas com Lógica Matemática:
+- Jogo do detetive
 
-- Bulleted
-- List
+Raciocínio Algorítmico:
+- Jogo da memória (Python)
+- Jogo de cálculos matemáticos (Python)
+- Jogo Jokenpo (Python)
 
-1. Numbered
-2. List
+Fundamentos de Sistemas Ciberfísicos:
+- Trabalho sobre SmartCity
 
-**Bold** and _Italic_ and `Code` text
+Filosofia:
+- Trabalho PVU
 
-[Link](url) and ![Image](src)
-```
+## *Curiosidades sobre mim:*
+- Gosto de jogar no tempo livre
+- Gosto de praticar atividades físicas
+- Tenho inglês e espanhol nível intermediário
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### *Número para contato:*
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KDoizz/Antonio.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Whatsapp: 41 99660-2276
+- E-mail: antonioarrudasilveira@gmail.com
