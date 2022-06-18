@@ -1,6 +1,10 @@
 - Estudante de Ciências da Computação, primeiro período, turma 1B
-
+- Antonio Victor de Arruda Silveira
 - Localizado em Curitiba, Paraná
+
+<p>
+  <img src="https://cdn.discordapp.com/attachments/871575732776747028/987753684580585482/1655569334142.jpg">
+</p>
 
 ### *Sobre mim*
 
@@ -34,6 +38,4 @@ Filosofia:
 - Tenho inglês e espanhol nível intermediário
 
 ### *Número para contato:*
-
-- Whatsapp: 41 99660-2276
 - E-mail: antonioarrudasilveira@gmail.com
