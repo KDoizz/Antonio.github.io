@@ -3,7 +3,7 @@
 - Localizado em Curitiba, Paraná
 
 <p>
-  <img src="https://cdn.discordapp.com/attachments/871575732776747028/987753684580585482/1655569334142.jpg">
+  <img src="https://cdn.discordapp.com/attachments/871575732776747028/987754687807750245/unknown.png">
 </p>
 
 ### *Sobre mim*
@@ -19,7 +19,7 @@ Experiência Criativa: Navegando na Computação:
 - Site Portfólio
 
 Resolução de Problemas com Lógica Matemática:
-- Jogo do detetive
+- Jogo Truco: Origins (detetive)
 
 Raciocínio Algorítmico:
 - Jogo da memória (Python)
